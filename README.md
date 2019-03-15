@@ -1,2 +1,2 @@
-# Py37-PR-build
+# PR-build
 a display case for PR build
